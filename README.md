@@ -1,4 +1,4 @@
-### Merge conflict?
+### Why are we still here? Just to suffer?
 
 <!--
 **diXrom/dixrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
