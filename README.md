@@ -1,5 +1,5 @@
 # Why are we still here? Just to suffer?
-
+![Why](https://i.ytimg.com/vi/s9odzlxOpP0/maxresdefault.jpg)
 <!--
 **diXrom/dixrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
