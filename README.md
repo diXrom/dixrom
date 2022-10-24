@@ -1,17 +1,11 @@
+### Hi, I'm Timur
+#### A software developer from Kazakhstan
+#### CodeWars
 ![CW](https://www.codewars.com/users/diXrom/badges/large) 
-# Why are we still here? Just to suffer? 
-![Why](https://i.ytimg.com/vi/s9odzlxOpP0/maxresdefault.jpg)
-<!--
-**diXrom/dixrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Skills
+- **Languages**: * TypeScript, Javascript, HTML5, CSS3*
+- **Frontend**: *React.Js, Next.Js, React-Router, Redux, RTKQ, MUI, TailwindCSS, Framer Motion*
+- **Backend**: *NodeJs, Express, MongoDB, Mongoose*
+- **Tools**: * Git, SASS, Jest, Testing Library, Webpack, Babel*
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to take a look at some of my pet / study projects below
