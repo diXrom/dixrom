@@ -8,4 +8,10 @@
 - **Backend**: *NodeJs, Express, MongoDB, Mongoose*
 - **Tools**: *Git, SASS, Jest, Testing Library, Webpack, Babel*
 
+#### Contacts
+
+- [Linkedin](https://www.linkedin.com/in/dixrom/)
+- [Telegram](https://t.me/dixromat)
+- [Email](mailto:dixrom25@gmail.com)
+
 Feel free to take a look at some of my pet / study projects below
